@@ -1,1 +1,9 @@
-Generic single-database configuration.
+## Introduction
+The Restaurant Review System is a Python project that demonstrates the use of SQLAlchemy for managing restaurant reviews. It allows users to create, view, and manage restaurant reviews. The project consists of three main models: `Restaurant`, `Customer`, and `Review`, and includes various methods to interact with the data.
+
+## Features
+- Create and manage restaurants and customers.
+- Create, view, and manage restaurant reviews.
+- Find a customer's favorite restaurant based on their reviews.
+- Retrieve the fanciest restaurant based on price.
+- View all reviews for a restaurant.
